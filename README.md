@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm José!
+# 👋 Hi there, I'm Jose!
 
 I'm a passionate software developer who loves building real-world applications and learning new technologies. I enjoy designing backend systems, exploring distributed architectures, and applying what I learn to solve real problems.
 
