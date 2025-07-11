@@ -15,6 +15,10 @@ I'm a passionate software developer who loves building real-world applications a
 - ⚛️ **React** – building modern UIs
 - 🔥 **Next.js** – server-side rendering and full-stack capabilities
 
+### DevOps & Tools
+- 🐳 **Docker** – containerizing applications for consistent environments
+- 🔧 **DevOps Process** – familiar with CI/CD pipelines, environments, and deployment strategies
+
 ## 🚧 Currently Working On
 
 I'm currently focused on building **ERP projects using Spring Boot**, applying clean architecture principles and learning how to scale distributed systems effectively.
